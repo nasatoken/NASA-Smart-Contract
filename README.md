@@ -19,6 +19,15 @@
 
 ---
 
+## Security Audit 
+
+<a href="https://dessertswap.finance/audits/NASA%20Token%20BEP-20%20Audit%208357731.pdf"> Click here to view our Security Audit by Dessert Finance</a>
+
+
+
+
+
+
 ## About
 
 <p>$NASA
