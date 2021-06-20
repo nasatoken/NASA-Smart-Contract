@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://static.wixstatic.com/media/d19bb7_91109d8d5f284ea59b638d6d6431e8c3~mv2.png/v1/crop/x_22,y_0,w_542,h_600/fill/w_507,h_561,al_c,q_85,usm_0.66_1.00_0.01/d19bb7_91109d8d5f284ea59b638d6d6431e8c3~mv2.webp" width="200" />
   <br/>
-  <h3 align="center">NASA | The Dependable Altcoin</h3>
+  <h3 align="center">NASA | Not Another Shit Altcoin</h3>
 </p>
 <p align="center">
-  <span align="center">Smart Contract 🚀</span>
+  <span align="center"> </span>
   <br/>
   <a href ="https://nasatoken.net/" target="_blank">https://nasatoken.net/</a>
 </p>
